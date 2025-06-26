@@ -1,0 +1,23 @@
+# Divine Domain
+
+🌍 **Divine Domain** is a text-based Python game where you play as a god shaping civilizations with divine powers, prayers, and cosmic influence.
+
+---
+
+## Gameplay
+
+- Manage civilizations’ stats like Faith, War, Tech, Culture, Science, and Rebellion.
+- Respond to prayers from your followers — help or ignore them.
+- Use Divine Points (DP) earned from your influence to cast powerful divine abilities.
+- Guide civilizations to worship you, or let rebellion rise and watch the chaos.
+
+---
+
+## How to Play
+
+1. Make sure you have Python 3 installed: [Download Python](https://www.python.org/downloads/)
+2. Clone or download this repository.
+3. Run the game from the terminal or command prompt:
+
+```bash
+python divine_domain.py
